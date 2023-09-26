@@ -2,4 +2,6 @@
 
 As beautiful as shell
 
-Our own implementation of bash realized with https://github.com/Keftark.
+Our own implementation of bash realized with https://github.com/XaelBaseth.
+
+Made with ~~pain and tears~~ love on Ubuntu 20.04.5 LTS.
